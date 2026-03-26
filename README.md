@@ -1,2 +1,2 @@
 # PythonGitDemo1
-test for two branches
+a demo project with two branches and requirements.txt
